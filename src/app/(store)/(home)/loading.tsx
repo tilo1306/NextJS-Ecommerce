@@ -1,3 +1,7 @@
 export default function HomeLoading() {
-  return <p>Carregando....</p>
+  return (
+    <div>
+      <h1>Carregando....</h1>
+    </div>
+  )
 }
