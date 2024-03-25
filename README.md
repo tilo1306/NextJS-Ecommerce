@@ -35,10 +35,28 @@ Durante a concepção do projeto foi utilizado um arquivo no formato json para s
 >
 </div>
 
+## :hammer: Executar Aplicação
+
+1- Realizar o clone desse projeto.
+
+- `git clone https://github.com/tilo1306/NextJS-Ecommerce.git`
+
+2- Depois escrever o comando no terminal:
+
+- `npm install`
+
+3- Ao final da instalação escrever o comando no terminal:
+
+- `npm run dev`
+
+4- Abrir no navegador usando a url:
+
+- `http://localhost:3000/`
+
 ## Contato
 
 <div>
   <a href = "mailto:doug1306@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglas-dos-santos-oliveira-762a7411b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+<a href = "https://www.developerdouglas.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
